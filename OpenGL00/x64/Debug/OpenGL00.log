@@ -1,0 +1,42 @@
+﻿  main.cpp
+C:\Users\86181\Desktop\VCT202107111255\VCT202107111255\VCT\OpenGL00\src\Shaders\Shader.h(56,40): warning C4101: “e”: 未引用的局部变量
+C:\Users\86181\Desktop\VCT202107111255\VCT202107111255\VCT\OpenGL00\src\Shape\Mesh.h(10,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+C:\Users\86181\Desktop\VCT202107111255\VCT202107111255\VCT\OpenGL00\src\Shape\Mesh.h(71,114): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+C:\Users\86181\Desktop\VCT202107111255\VCT202107111255\VCT\OpenGL00\src\Shape\Mesh.h(71,95): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+C:\Users\86181\Desktop\VCT202107111255\VCT202107111255\VCT\OpenGL00\src\Shape\Mesh.h(76,115): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+C:\Users\86181\Desktop\VCT202107111255\VCT202107111255\VCT\OpenGL00\src\Shape\Mesh.h(76,96): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+C:\Users\86181\Desktop\VCT202107111255\VCT202107111255\VCT\OpenGL00\src\Shape\Mesh.h(81,113): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+C:\Users\86181\Desktop\VCT202107111255\VCT202107111255\VCT\OpenGL00\src\Shape\Mesh.h(81,94): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+C:\Users\86181\Desktop\VCT202107111255\VCT202107111255\VCT\OpenGL00\src\Shape\Mesh.h(88,1): warning C4267: “参数”: 从“size_t”转换到“GLsizei”，可能丢失数据
+C:\Users\86181\Desktop\VCT202107111255\VCT202107111255\VCT\OpenGL00\src\Shape\Model.h(14,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+C:\Users\86181\Desktop\VCT202107111255\VCT202107111255\VCT\OpenGL00\src\Renderer\Renderer.h(44,22): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\86181\Desktop\VCT202107111255\VCT202107111255\VCT\OpenGL00\src\Renderer\Renderer.h(256,1): warning C4305: “+=”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ]
+C:\Users\86181\Desktop\VCT202107111255\VCT202107111255\VCT\OpenGL00\src\Renderer\Renderer.h(260,1): warning C4305: “-=”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ]
+C:\Users\86181\Desktop\VCT202107111255\VCT202107111255\VCT\OpenGL00\src\Renderer\Renderer.h(264,1): warning C4305: “-=”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ]
+C:\Users\86181\Desktop\VCT202107111255\VCT202107111255\VCT\OpenGL00\src\Renderer\Renderer.h(268,1): warning C4305: “+=”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ]
+C:\Users\86181\Desktop\VCT202107111255\VCT202107111255\VCT\OpenGL00\src\main.cpp(115,28): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\86181\Desktop\VCT202107111255\VCT202107111255\VCT\OpenGL00\src\main.cpp(104,26): warning C4101: “currentTime”: 未引用的局部变量
+C:\Users\86181\Desktop\VCT202107111255\VCT202107111255\VCT\OpenGL00\src\main.cpp(167,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\86181\Desktop\VCT202107111255\VCT202107111255\VCT\OpenGL00\src\main.cpp(168,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\86181\Desktop\VCT202107111255\VCT202107111255\VCT\OpenGL00\src\main.cpp(172,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\86181\Desktop\VCT202107111255\VCT202107111255\VCT\OpenGL00\src\main.cpp(173,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\86181\Desktop\VCT202107111255\VCT202107111255\VCT\OpenGL00\src\main.cpp(175,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\86181\Desktop\VCT202107111255\VCT202107111255\VCT\OpenGL00\src\main.cpp(176,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\86181\Desktop\VCT202107111255\VCT202107111255\VCT\OpenGL00\src\main.cpp(183,31): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  OpenGL00.vcxproj -> C:\Users\86181\Desktop\VCT202107111255\VCT202107111255\VCT\OpenGL00\x64\Debug\OpenGL00.exe
